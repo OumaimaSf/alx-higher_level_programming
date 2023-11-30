@@ -10,4 +10,4 @@ if mod > 5:
 elif mod == 0:
     print("0")
 else:
-/usr/bin/bash: line 1: q: command not found
+    print("less than 6 and not 0")
